@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my probable-journey homepage!
+
 
 You can use the [editor on GitHub](https://github.com/Fiyona99/probable-journey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
